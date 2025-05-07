@@ -1,0 +1,29 @@
+[Profile1]
+name=Hızlı Kullanıcı
+typing_speed_min=0.05
+typing_speed_max=0.15
+move_speed_min=0.02
+move_speed_max=0.1
+scroll_speed=fast
+error_rate=0.03
+jitter_intensity=3
+
+[Profile2]
+name=Dikkatli Kullanıcı
+typing_speed_min=0.2
+typing_speed_max=0.5
+move_speed_min=0.1
+move_speed_max=0.8
+scroll_speed=slow
+error_rate=0.07
+jitter_intensity=5
+
+[Profile3]
+name=Ortalama Kullanıcı
+typing_speed_min=0.1
+typing_speed_max=0.3
+move_speed_min=0.05
+move_speed_max=0.3
+scroll_speed=medium
+error_rate=0.05
+jitter_intensity=4
